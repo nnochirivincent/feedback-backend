@@ -1,0 +1,6 @@
+{ 
+    "jwtPrivateKey":"dev_jwtPrivateKey",
+    "mail":{
+        "password":"appword"
+    }
+}
